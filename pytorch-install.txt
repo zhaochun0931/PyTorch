@@ -6,9 +6,9 @@ pip3 install torch torchvision torchaudio
 
 
 
-python3 pytorch_demo.py
+python3 pytorch-demo.py
 
-$ python3 pytorch_demo.py
+$ python3 pytorch-demo.py
 tensor([[0.4184, 0.2079, 0.2480],
         [0.0813, 0.6809, 0.4778],
         [0.5307, 0.9220, 0.4893],
